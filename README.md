@@ -37,4 +37,4 @@ Este desafio consistiu em refatorar um sistema bancário inicial para torná-lo 
 2. No terminal integrado (`Ctrl + '`), certifique-se de estar na pasta do arquivo.
 3. Execute o comando:
 ```bash
-python python seu_arquivo.py
+python python_sistema_bancario.py
