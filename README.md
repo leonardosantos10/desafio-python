@@ -1,4 +1,4 @@
-<h1 align="center"> 🏦 Sistema Bancário em Python (v2.0) </h1>
+<h1 align="center"> 🏦 Sistema Bancário em Python</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python" alt="Python Badge">
