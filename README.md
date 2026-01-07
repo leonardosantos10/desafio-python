@@ -11,7 +11,9 @@
 
 ---
 
-## 📖 Sobre o Projeto
+## 📖 Projeto desafio da DIO
+
+## Dio Sobre o Projeto
 
 Este desafio consistiu em refatorar um sistema bancário inicial para torná-lo **modular**. O código foi organizado em funções específicas para depósito, saque, extrato, cadastro de usuários e contas correntes, aplicando conceitos de boas práticas e diferentes tipos de passagens de argumentos em Python.
 
